@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariem</h1>
-<h3 align="center">Passionate Developer | C++ • JavaScript • React • Node.js • SQL</h3>
+
 
 <p align="center">
   📫 How to reach me: <strong>mariemj873@gmail.com</strong>
