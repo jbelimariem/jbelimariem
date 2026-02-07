@@ -37,12 +37,11 @@
 
   <!-- Tools & Cyber -->
 <!-- Cybersecurity Tools -->
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40" alt="Nmap"/>
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/>
 <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40" height="40" alt="Maltego"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40" alt="Postman"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-<img src="https://www.kali.org/tools/metasploit/images/metasploit-logo.svg" width="40" height="40" alt="Metasploit"/>
 <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40" height="40" alt="Burp Suite"/>
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" height="40" alt="Hydra"/>
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40" height="40" alt="SQLmap"/>
