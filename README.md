@@ -7,13 +7,6 @@
 
 ---
 
-
-
-
-
-
-## 🛠 Languages & Tools
-
 ## 🛠 Languages & Tools
 
 <p align="left">
