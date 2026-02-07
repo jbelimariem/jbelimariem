@@ -36,13 +36,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
 
   <!-- Tools & Cyber -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" alt="Qt"/>
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40" alt="Nmap"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/>
-  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40" height="40" alt="Maltego"/>
+<!-- Cybersecurity Tools -->
+<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" height="40" alt="Nmap"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/>
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40" height="40" alt="Maltego"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40" alt="Postman"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+<img src="https://www.kali.org/tools/metasploit/images/metasploit-logo.svg" width="40" height="40" alt="Metasploit"/>
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40" height="40" alt="Burp Suite"/>
+<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40" height="40" alt="Hydra"/>
+<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40" height="40" alt="SQLmap"/>
+
 </p>
 
 
